@@ -1,7 +1,7 @@
 $fn=100;
 
 outer_diameter = 3.95;
-inner_diameter = 0.483;
+inner_diameter = 0.487;
 wheel_hub_adapter_height = 0.191;
 screw_hole_diameter = 0.162;
 screw_hole_offset = 1.603;
