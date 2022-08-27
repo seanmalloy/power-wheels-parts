@@ -61,7 +61,7 @@ difference() {
 // Top Adapter for Gear  Box
 gear_box_adapter_outer_diameter = 2.800; // originally 2.692
 gear_box_adapter_inner_diameter = 2.592;
-gear_box_adapter_height = 0.396;
+gear_box_adapter_height = 0.496;
 
 translate([0, 0, wheel_hub_adapter_height]) {
     difference() {
